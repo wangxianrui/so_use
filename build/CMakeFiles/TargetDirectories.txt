@@ -1,0 +1,3 @@
+/home/wxrui/clionPRO/testpro/build/CMakeFiles/edit_cache.dir
+/home/wxrui/clionPRO/testpro/build/CMakeFiles/rebuild_cache.dir
+/home/wxrui/clionPRO/testpro/build/CMakeFiles/testpro.dir
